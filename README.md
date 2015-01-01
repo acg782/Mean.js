@@ -1,6 +1,6 @@
-Mean.js
+MongoDB
 =======
 
-Initial build up and experimentation with Mean.js
+Initial build up of MongoDB
 
 http://meanjs.org/docs.html
